@@ -151,4 +151,3 @@ Install the **IBM Db2** extension, add a connection (host `localhost`, port `500
 ## Credits
 
 - Official Haystack Db2 integration documentation (Haystack integrations, IBM Db2).
-- Inspired by GeetikaChughIBM's [Haystack_IBM_Db2_Practical_AI_Applications](https://github.com/GeetikaChughIBM/Haystack_IBM_Db2_Practical_AI_Applications).
